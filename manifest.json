@@ -1,0 +1,98 @@
+{
+  "schema": 1,
+  "edition": "1.0.0",
+  "license": "MIT",
+  "publication": "public-release-package",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3614,
+      "sha256": "722d13ed084ca0be22fe0e790adba8e88c1c62881a12908ca6d913b67a079c30"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "bytes": 1978,
+      "sha256": "7a8fab904d715bf97440020db5696bf41a1f138b1a1e98a925ff0f191ea5fc5d"
+    },
+    {
+      "path": "CATALOG.md",
+      "bytes": 2982,
+      "sha256": "dcabb512aa0c9ef33f51addc88bd2e973135e15283eab376f241cd64a68c2b04"
+    },
+    {
+      "path": "RELEASE_STATUS.md",
+      "bytes": 1895,
+      "sha256": "2ff91d1df162d08d8c396374cccbd8d12a0f52fe1ea02082fda41827c3e55747"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1073,
+      "sha256": "7e1cad8c729653a8ec89178d2994f6e88d28e6b39ebfe85378ec72033be4a06f"
+    },
+    {
+      "path": "skills/video-progressive-review/SKILL.md",
+      "bytes": 3033,
+      "sha256": "72c734aeac9753c7f010123cc71a492b36140518cde7b65d27e5512865bbff0b"
+    },
+    {
+      "path": "skills/video-progressive-review/README.md",
+      "bytes": 3279,
+      "sha256": "f0639dddff0a75f8ccb1f13eeed5b0cb8f0f680cba6681eb59645ec00e8b2728"
+    },
+    {
+      "path": "skills/video-progressive-review/references/examples.md",
+      "bytes": 1069,
+      "sha256": "f7b8a3f70a2420eb7a7e9f06b3f68f481335df38d35cbdd7c71f22c8a911d92b"
+    },
+    {
+      "path": "skills/windows-utf8-mojibake-guard/SKILL.md",
+      "bytes": 2799,
+      "sha256": "e4a7e1b1677597e9f54ef2b81ff392f2a1d8086a37a0fbda49757ad5c3c9869d"
+    },
+    {
+      "path": "skills/windows-utf8-mojibake-guard/README.md",
+      "bytes": 3792,
+      "sha256": "ee9347006f43fd79c1b5cd2de588a86c91cbf8b1be0b1d5db40c701b99d57554"
+    },
+    {
+      "path": "skills/windows-utf8-mojibake-guard/references/examples.md",
+      "bytes": 995,
+      "sha256": "73d94e23eb7dadceede55c7a07bde237d61f8bbbc25bdc191aa06509811be687"
+    },
+    {
+      "path": "skills/toxic-pm/SKILL.md",
+      "bytes": 3061,
+      "sha256": "f12d5c1bbda7d91edd12fa41e32b8f2c07e38a3e694ef139c8fbc005ee4b13bf"
+    },
+    {
+      "path": "skills/toxic-pm/README.md",
+      "bytes": 3264,
+      "sha256": "72e975a77aa89cf586596dc063594c4a07a1a0175175736e2e6326a17df4b670"
+    },
+    {
+      "path": "skills/toxic-pm/references/examples.md",
+      "bytes": 1144,
+      "sha256": "5365034cc9ec3c8bf734aa099f19f768ae972c1b8171c050bebc0448cf6a4914"
+    },
+    {
+      "path": "skills/short-message-completion/SKILL.md",
+      "bytes": 2647,
+      "sha256": "3b32195f2ae6b99e5f8f93317ccc57f09deb8c347edb78de9da9a8e36fb4fd7a"
+    },
+    {
+      "path": "skills/short-message-completion/README.md",
+      "bytes": 2849,
+      "sha256": "703fc3e40bfa6188defb52e40298dd0fa1d928d132d8749ac4e7e7eff6f8952a"
+    },
+    {
+      "path": "skills/short-message-completion/references/examples.md",
+      "bytes": 849,
+      "sha256": "92620070be02daf52b08a72532a07e3193460b09ca69e6d1158d79ff2f5e0cab"
+    },
+    {
+      "path": "skills/windows-utf8-mojibake-guard/scripts/inspect_text_encoding.py",
+      "bytes": 2782,
+      "sha256": "0feb9d46cdce20ad1da3868d0201fbdbb19ca5d4e7ad65187c3d24020a0795b7"
+    }
+  ]
+}
